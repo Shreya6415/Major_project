@@ -1,2 +1,2 @@
-# Major_project
+# Wanderlust
 Major project of my Web Development journey
